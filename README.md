@@ -229,7 +229,7 @@
 ## **❤️ Team @LinkedIn**
 - [Ramón Szellatis (Founder)](https://de.linkedin.com/in/ramon-szellatis)
 - [Jan Münter (Manager)](https://www.linkedin.com/in/jan-m%C3%BCnter-4a0906169)
-- [Loi Finke (Dev)](https://www.linkedin.com/in/loi-finke-a04174216)
+- [Loi Finke (Co-Dev)](https://www.linkedin.com/in/loi-finke-a04174216)
 
 ## **😽 Bemeow**
 - [Website](https://bemeow.club)
