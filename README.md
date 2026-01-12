@@ -18,7 +18,7 @@
 
 ---
 
-<img src="/screenshots/phone_fungible.png" height="250px" hspace="10"><img src="/screenshots/phone_collectible.png" height="250px" hspace="35"><img src="/screenshots/phone_payment.png" height="240px" hspace="10">
+<img src="/screenshots/phone_fungible.png" height="250px" hspace="10"><img src="/screenshots/phone_collectible.png" height="250px" hspace="35"><img src="/screenshots/phone_payment.png" height="245px" hspace="10">
 
 ---
 
