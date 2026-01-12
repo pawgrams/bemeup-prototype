@@ -14,7 +14,7 @@
 
 ---
 
-### **👉 Prototype Usage:** https://bemeow-test.web.app
+### **👉 Try the Prototype:** https://bemeow-test.web.app
 
 ---
 
