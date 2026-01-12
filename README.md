@@ -10,6 +10,10 @@
 
 ---
 
+### **👉 Try the Prototype:** https://bemeow-test.web.app
+
+---
+
 <img src="/screenshots/phone_outro.png" height="250px" hspace="10"><img src="/screenshots/phone_boost.png" height="250px" hspace="10"><img src="/screenshots/phone_create.png" height="250px" hspace="25">
 
 ---
@@ -19,10 +23,6 @@
 ---
 
 ***redeployment from: https://github.com/sbc-25/bemeup-prototype***
-
----
-
-### **👉 Try the Prototype:** https://bemeow-test.web.app
 
 ---
 
