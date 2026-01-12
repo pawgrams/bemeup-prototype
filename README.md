@@ -244,7 +244,7 @@
 - [BEME Chart](https://dexscreener.com/solana/epbwjmhfyvnwdkjbztm8dmjqpo9opjysinmucq7dbzck) (6/20 Vestings)
  -->
 
-## **🎵 Test Tokenization Example:** Fungible Music Coin 
+## **🎵 Tokenization Example:**
 - [Album](https://solscan.io/token/Audio2gzgkhyvbFhLCVgdsMK4dwvCrNQP1z1ijVNTiLy#extensions)
 - [1 Song of Album](https://solscan.io/token/MP3LJTvmbBRdiuLVDrTLqd3EEjg4uvJnoMyLVCBxdP2#extensions)
 - [Asset](https://solscan.io/token/FEETHbYTHd6yzmhizNAPTYU1qyR1JteR6JLsjm4rxZSf#extensions)
