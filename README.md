@@ -1,6 +1,6 @@
 # **⬆️ BEMEUP** (Prototype)
 
-<p align="center" style="background:black;display:inline-block; padding:20px 30px">
+<p align="left" style="background:black;display:inline-block; padding:20px 30px">
   <img src="https://raw.githubusercontent.com/gist/cimdatapaw/cb7e978bbe0809aa823c4547e12c1e92/raw/211e73d21d5f76900bc7f7c39baec83453b89114/logo.svg" width="600"/>
 </p>
 
