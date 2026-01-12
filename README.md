@@ -10,9 +10,9 @@
 
 ---
 
-<img src="/screenshots/phone_logo.png" height="300px" hspace="20"><img src="/screenshots/phone_boost.png" height="300px" hspace="20"><img src="/screenshots/phone_create.png" height="300px" hspace="20">
-<img src="/screenshots/phone_fungible.png" height="300px" hspace="20"><img src="/screenshots/phone_collectible.png" height="300px" hspace="20"><img src="/screenshots/phone_payment.png" height="300px" hspace="20">
-<img src="/screenshots/phone_brand" height="300px" hspace="20"><img src="/screenshots/phone_outro" height="300px" hspace="20">
+<img src="/screenshots/phone_logo.png" height="250px" hspace="10"><img src="/screenshots/phone_boost.png" height="250px" hspace="10"><img src="/screenshots/phone_create.png" height="250px" hspace="10">
+<img src="/screenshots/phone_fungible.png" height="250px" hspace="10"><img src="/screenshots/phone_collectible.png" height="250px" hspace="10"><img src="/screenshots/phone_payment.png" height="250px" hspace="10">
+<img src="/screenshots/phone_brand.png" height="250px" hspace="10"><img src="/screenshots/phone_outro.png" height="250px" hspace="10">
 
 ---
 
