@@ -6,7 +6,7 @@
 
     Powered by Bemeow (Beats of Meow)
     Contribution to BONK Startup Building Challenge 2025
-   All Rights Reserved – Usage requires explicit permission from the author.
+    All Rights Reserved – Usage requires explicit permission from the author.
 
 ---
 
