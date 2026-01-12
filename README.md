@@ -14,7 +14,7 @@
 
 ---
 
-<img src="/screenshots/phone_outro.png" height="250px" hspace="10"><img src="/screenshots/phone_boost.png" height="260px" hspace="10"><img src="/screenshots/phone_create.png" height="250px" hspace="25">
+<img src="/screenshots/phone_outro.png" height="250px" hspace="10"><img src="/screenshots/phone_boost.png" height="275px" hspace="10"><img src="/screenshots/phone_create.png" height="250px" hspace="25">
 
 ---
 
