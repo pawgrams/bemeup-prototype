@@ -232,6 +232,7 @@
 - [Jan Münter (Manager)](https://www.linkedin.com/in/jan-m%C3%BCnter-4a0906169)
 - [Loi Finke (Co-Dev)](https://www.linkedin.com/in/loi-finke-a04174216)
 
+<!-- 
 ## **😽 Bemeow**
 - [Website](https://bemeow.club)
 - [Linktree](https://linktr.ee/beatsofmeow)
@@ -241,6 +242,7 @@
 - [BONK Integration in dApp](https://drive.google.com/file/d/1Xk8oO9fn3LIMF6hcFOwbksJRRqph1mBB/view?usp=sharing) (Q4/2024)
 - [CA:](https://solscan.io/token/BEMEeJ8sSyQXswNiZ98M8ppyJGDE4g5UumqgZkANNVbb) BEMEeJ8sSyQXswNiZ98M8ppyJGDE4g5UumqgZkANNVbb
 - [BEME Chart](https://dexscreener.com/solana/epbwjmhfyvnwdkjbztm8dmjqpo9opjysinmucq7dbzck) (6/20 Vestings)
+ -->
 
 ## **🎵 Test Tokenization Example:** Fungible Music Coin 
 - [Album](https://solscan.io/token/Audio2gzgkhyvbFhLCVgdsMK4dwvCrNQP1z1ijVNTiLy#extensions)
