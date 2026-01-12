@@ -10,7 +10,7 @@
 
 ---
 
-<img src="/screenshots/phone_outro.png" height="250px" hspace="10"><img src="/screenshots/phone_boost.png" height="250px" hspace="10"><img src="/screenshots/phone_create.png" height="250px" hspace="10"><img src="/screenshots/phone_fungible.png" height="250px" hspace="10"><img src="/screenshots/phone_collectible.png" height="250px" hspace="10"><img src="/screenshots/phone_payment.png" height="250px" hspace="10">
+<img src="/screenshots/phone_outro.png" height="250px" hspace="10"><img src="/screenshots/phone_boost.png" height="250px" hspace="10"><img src="/screenshots/phone_create.png" height="250px" hspace="10"><img src="/screenshots/phone_fungible.png" height="250px" hspace="10"><img src="/screenshots/phone_collectible.png" height="250px" hspace="10"><img src="/screenshots/phone_payment.png" height="220px" hspace="10">
 
 ---
 
